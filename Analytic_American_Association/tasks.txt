@@ -1,0 +1,60 @@
+Task ID: TSK_173836
+Task Name: Documentation
+Chargeable: True
+Rate Card: 230.0
+------------------------------
+Task ID: TSK_203133
+Task Name: Investigation
+Chargeable: True
+Rate Card: 200.0
+------------------------------
+Task ID: TSK_197011
+Task Name: Business Settlement
+Chargeable: True
+Rate Card: 290.0
+------------------------------
+Task ID: TSK_667417
+Task Name: Tax
+Chargeable: True
+Rate Card: 650.0
+------------------------------
+Task ID: TSK_138775
+Task Name: Fallowups
+Chargeable: False
+Rate Card: 0.0
+------------------------------
+Task ID: TSK_154051
+Task Name: Diverse
+Chargeable: True
+Rate Card: 510.0
+------------------------------
+Task ID: TSK_421195
+Task Name: Vehical dealing
+Chargeable: True
+Rate Card: 200.0
+------------------------------
+Task ID: TSK_904301
+Task Name: Land Dealing
+Chargeable: True
+Rate Card: 330.0
+------------------------------
+Task ID: TSK_642481
+Task Name: Criminal Case dealing
+Chargeable: True
+Rate Card: 730.0
+------------------------------
+Task ID: TSK_867719
+Task Name: Finance settlement
+Chargeable: True
+Rate Card: 430.0
+------------------------------
+Task ID: TSK_925193
+Task Name: Client Communication
+Chargeable: True
+Rate Card: 430.0
+------------------------------
+Task ID: TSK_687428
+Task Name: Intellectual Property Filing
+Chargeable: True
+Rate Card: 350.0
+------------------------------

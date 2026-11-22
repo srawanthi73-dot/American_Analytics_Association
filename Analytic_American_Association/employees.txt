@@ -1,0 +1,182 @@
+Employee ID: EMP_554492
+Employee Name: Arjun
+Standard Bill Rate: 250.0
+Mail ID: Arju.kanakala@gmail.com
+Phone Number: 9290279321
+House Number: 84/251/2
+Building Number: 776
+Road Number: 5
+Street Name: Nagulakatta
+Landmark: Kims Car servie
+City: Hyderabad
+State: Telangana
+Zip Code: 500018
+------------------------------
+Employee ID: EMP_597830
+Employee Name: John
+Standard Bill Rate: 150.0
+Mail ID: john123.r@gmail.com
+Phone Number: 9298979321
+House Number: 84/2
+Building Number: 524
+Road Number: 102
+Street Name: Natara Nagar
+Landmark: Opposite to Udipi
+City: Karimanagar
+State: Telangana
+Zip Code: 50036
+------------------------------
+Employee ID: EMP_827716
+Employee Name: Mick
+Standard Bill Rate: 470.0
+Mail ID: mick.k78@gmail.com
+Phone Number: 9249279321
+House Number: 721/251/4
+Building Number: 123
+Road Number: 546
+Street Name: Dumpala Street
+Landmark: nearby Venkatesh Temple
+City: Kurnool
+State: Andhra Pradesh
+Zip Code: 502518
+------------------------------
+Employee ID: EMP_792801
+Employee Name: Reeno Renold
+Standard Bill Rate: 320.0
+Mail ID: Rreeno.renold2@gmail.com
+Phone Number: 6290279321
+House Number: 84/001/5
+Building Number: 5478
+Road Number: 12
+Street Name: Highway road
+Landmark: Besides Pizza hurt
+City: Vijayawada
+State: Andhra Pradesh
+Zip Code: 502501
+------------------------------
+Employee ID: EMP_127990
+Employee Name: Saam
+Standard Bill Rate: 980.0
+Mail ID: saam123.b@gmail.com
+Phone Number: 8970279321
+House Number: 256/251/6
+Building Number: 6321
+Road Number: 1
+Street Name: Chinna Circle
+Landmark: next to 5th cross
+City: Banglore
+State: Karnataka
+Zip Code: 510600
+------------------------------
+Employee ID: EMP_196230
+Employee Name: Bolt Reen
+Standard Bill Rate: 256.0
+Mail ID: boltreeno@gmail.com
+Phone Number: 7120279321
+House Number: 63/251/7
+Building Number: 2
+Road Number: 41
+Street Name: chenamma circle
+Landmark: Above Airtel Office
+City: Nandyal
+State: Andhra Pradesh
+Zip Code: 524514
+------------------------------
+Employee ID: EMP_373474
+Employee Name: John Bjorn
+Standard Bill Rate: 206.0
+Mail ID: johnbj09@gmail.com
+Phone Number: 9299879321
+House Number: 64/01/81
+Building Number: 145
+Road Number: 6
+Street Name: Gouse line
+Landmark: 2nd floor Nalanda Scool building
+City: Tirupati
+State: Andhra Pradesh
+Zip Code: 581534
+------------------------------
+Employee ID: EMP_624493
+Employee Name: Andrino
+Standard Bill Rate: 110.0
+Mail ID: a.andrino@gmail.com
+Phone Number: 9290279555
+House Number: 814/2/9
+Building Number: 965
+Road Number: 3
+Street Name: sanga peta
+Landmark: Nearby Café Coffee Day
+City: Guntur
+State: Andhra Pradesh
+Zip Code: 518506
+------------------------------
+Employee ID: EMP_872213
+Employee Name: Singham
+Standard Bill Rate: 250.0
+Mail ID: sin.am56@gmail.com
+Phone Number: 9290222321
+House Number: 84/251
+Building Number: 478
+Road Number: 8
+Street Name: Birmala Steet
+Landmark: Branded Mall Besides
+City: Nijamabad
+State: Telangana
+Zip Code: 518514
+------------------------------
+Employee ID: EMP_867409
+Employee Name: Raju
+Standard Bill Rate: 300.0
+Mail ID: raju.kanakala@gmail.com
+Phone Number: 9990279321
+House Number: A8/251/P
+Building Number: 1234
+Road Number: 402
+Street Name: Balaji Complex Line
+Landmark: Infront of Hond Show room
+City: Gujiyabad
+State: Gujarat
+Zip Code: 502415
+------------------------------
+Employee ID: EMP_111484
+Employee Name: Venumadhav
+Standard Bill Rate: 600.0
+Mail ID: venu.m5555@gmail.com
+Phone Number: 8880279321
+House Number: D456/251/12
+Building Number: 546
+Road Number: 645
+Street Name: CP Complex left line
+Landmark: Roshan Tent House
+City: Vishakhapatnam
+State: Andhra Pradesh
+Zip Code: 502631
+------------------------------
+Employee ID: EMP_652155
+Employee Name: Sekhar
+Standard Bill Rate: 800.0
+Mail ID: sekhar9876543@gmail.com
+Phone Number: 9290279888
+House Number: E4/2501/13B
+Building Number: 7812
+Road Number: 11
+Street Name: Telugu peta
+Landmark: Besides Relience Mart
+City: Warangal
+State: Telangana
+Zip Code: 578412
+------------------------------
+Employee ID: EMP_388172
+Employee Name: Smith Lawyer
+Standard Bill Rate: 450.0
+Mail ID: emp.smith@firm.com
+Phone Number: +919876543210
+House Number: 45
+Building Number: Suite 4
+Road Number: 2
+Street Name: Lawyers Ave
+Landmark: High Court
+City: Bangalore
+State: Karnataka
+Zip Code: 560001
+------------------------------

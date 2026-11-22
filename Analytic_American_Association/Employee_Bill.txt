@@ -1,0 +1,11 @@
+**************************************************
+                  EMPLOYEE BILL                   
+**************************************************
+Bill Date       : 2026/11/22
+Employee ID     : EMP_388172
+Employee Name   : Smith Lawyer
+Bill Hours      : 6.5
+Bill Rate       : 450.0
+Bill Amount     : 2925.0
+Bill Status     : Paid
+**************************************************

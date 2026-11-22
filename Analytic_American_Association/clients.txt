@@ -1,0 +1,195 @@
+Client ID: CLT_206087
+Client Name: Ravi Raju
+Client Description: Land Dealing
+Standard Bill Rate: 1050.0
+Mail ID: Ravi.r.raju123@gmail.com
+Phone Number: 8290279321
+House Number: K1/251/2
+Building Number: 145
+Road Number: 55
+Street Name: Peddamma Steet
+Landmark: Kims Car servie
+City: Hyderabad
+State: Telangana
+Zip Code: 500018
+------------------------------
+Client ID: CLT_870657
+Client Name: Kundan
+Client Description: I want a tax lawyer for my business
+Standard Bill Rate: 1002.0
+Mail ID: k.kundan789@gmail.com
+Phone Number: 6298979321
+House Number: 22/20007
+Building Number: 965
+Road Number: 102
+Street Name: Natara Nagar
+Landmark: pochamma Temple
+City: Karimanagar
+State: Telangana
+Zip Code: 500036
+------------------------------
+Client ID: CLT_237594
+Client Name: Marshal B
+Client Description: I have sold my vehicle but the person not paid full amount I wanted to proceed legally
+Standard Bill Rate: 7870.0
+Mail ID: marshal.software@mail.com
+Phone Number: 9949279321
+House Number: 72-251/4
+Building Number: 478
+Road Number: 546
+Street Name: Dumpala Street
+Landmark: Lakshmi Fancy
+City: Nandyal
+State: Andhra Pradesh
+Zip Code: 502518
+------------------------------
+Client ID: CLT_201566
+Client Name: Reshab K
+Client Description: Required immigration lawyer
+Standard Bill Rate: 3220.0
+Mail ID: reshab.kandula@gmail.com
+Phone Number: 9290279321
+House Number: BD84-001/5
+Building Number: 1234
+Road Number: 45
+Street Name: Besides Flyover
+Landmark: opposite hond show room
+City: Gudiwada
+State: Andhra Pradesh
+Zip Code: 502501
+------------------------------
+Client ID: CLT_193401
+Client Name: Sohail Shiak
+Client Description: I want personal advise lawyer for me
+Standard Bill Rate: 980.0
+Mail ID: sohail777@gmail.com
+Phone Number: 9070279321
+House Number: KD6/251/6
+Building Number: 546
+Road Number: 32
+Street Name: Gudo Circle
+Landmark: Nearby Apple store
+City: Banglore
+State: Karnataka
+Zip Code: 510600
+------------------------------
+Client ID: CLT_780198
+Client Name: Soma Sekhar
+Client Description: Court  hearing advise
+Standard Bill Rate: 2001.0
+Mail ID: soma.sekhar@gmail.com
+Phone Number: 7220279321
+House Number: 63/lk/7
+Building Number: 7812
+Road Number: 5
+Street Name: lerent
+Landmark: codec institute
+City: Nandyal
+State: Andhra Pradesh
+Zip Code: 524514
+------------------------------
+Client ID: CLT_944911
+Client Name: Sreenivasulu
+Client Description: I have House Mortagage issue
+Standard Bill Rate: 2306.0
+Mail ID: sreenu.sri@gmail.com
+Phone Number: 9999879321
+House Number: 64/0/81
+Building Number: 201
+Road Number: 1
+Street Name: Anders lane
+Landmark: Kanal Statue
+City: Chittor
+State: Andhra Pradesh
+Zip Code: 581534
+------------------------------
+Client ID: CLT_287405
+Client Name: Laxman Raju
+Client Description: Required a lawyer to advise me on my organizational activities
+Standard Bill Rate: 1010.0
+Mail ID: laxman.r456.k@gmail.com
+Phone Number: 9200079555
+House Number: 814-34/9
+Building Number: 546
+Road Number: 13
+Street Name: Centeric Road
+Landmark: kengeri road
+City: Hubli
+State: Karnataka
+Zip Code: 518506
+------------------------------
+Client ID: CLT_291243
+Client Name: Nikhil b
+Client Description: Want some legal adwise on my diverse
+Standard Bill Rate: 1250.0
+Mail ID: nikhila.b423@gmail.com
+Phone Number: 9222222321
+House Number: A123/251
+Building Number: 89
+Road Number: 12
+Street Name: Birmala Steet
+Landmark: Pet care shoup
+City: Nijamabad
+State: Telangana
+Zip Code: 518514
+------------------------------
+Client ID: CLT_492284
+Client Name: kumar kandavalli
+Client Description: A lawyer who advise me on contracts dealing and labour related activities
+Standard Bill Rate: 3000.0
+Mail ID: kumar.k.kandavalli@gmail.com
+Phone Number: 9990279221
+House Number: A8/251/P
+Building Number: 41
+Road Number: 402
+Street Name: Balaji Complex Line
+Landmark: Red port lane
+City: Adilabad
+State: Gujarat
+Zip Code: 502415
+------------------------------
+Client ID: CLT_127433
+Client Name: Venkatesh M
+Client Description: want to gather some evidance on one case
+Standard Bill Rate: 6010.0
+Mail ID: venkatesh7@gmail.com
+Phone Number: 8880279300
+House Number: D456/251-HT
+Building Number: 679
+Road Number: 645
+Street Name: CP Complex left line
+Landmark: Pedda banda steet
+City: Ongole
+State: Andhra Pradesh
+Zip Code: 502631
+------------------------------
+Client ID: CLT_800588
+Client Name: Ramesh Naik
+Client Description: Land Dealing
+Standard Bill Rate: 2200.0
+Mail ID: ramesh.098@gmail.com
+Phone Number: 9000279888
+House Number: E4/2501/13B
+Building Number: 302
+Road Number: 11
+Street Name: Telugu peta
+Landmark: nadigadda chicken mart
+City: Maheboob nagar
+State: Telangana
+Zip Code: 578412
+------------------------------
+Client ID: CLT_546568
+Client Name: Acme Corp
+Client Description: Contract Dispute Resolution
+Standard Bill Rate: 1200.0
+Mail ID: clt.acme@business.com
+Phone Number: 9123456789
+House Number: 88
+Building Number: Tower A
+Road Number: 10
+Street Name: Tech Park
+Landmark: Metro Station
+City: Hyderabad
+State: Telangana
+Zip Code: 500081
+------------------------------
